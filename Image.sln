@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1_Aguiar_Moix", "TP1_Aguiar_Moix.csproj", "{69B55000-63E7-4087-B7EE-7A1014D4C103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2_Aguiar_MoixTests", "..\TP1_Aguiar_MoixTests\TP2_Aguiar_MoixTests.csproj", "{020D04D5-30A2-4D47-B224-3D889B359009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B55000-63E7-4087-B7EE-7A1014D4C103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B55000-63E7-4087-B7EE-7A1014D4C103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B55000-63E7-4087-B7EE-7A1014D4C103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B55000-63E7-4087-B7EE-7A1014D4C103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020D04D5-30A2-4D47-B224-3D889B359009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020D04D5-30A2-4D47-B224-3D889B359009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020D04D5-30A2-4D47-B224-3D889B359009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020D04D5-30A2-4D47-B224-3D889B359009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3133F795-112C-40BE-8E2C-8A21134F2D02}
+	EndGlobalSection
+EndGlobal
